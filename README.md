@@ -1,17 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!🥳&fontSize=50)
 
 <div align="center">
 <br/>
-<h1>📝Studying📝<h1> <br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">  
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"> 
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<h2>📝Studying📝<h2> <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   
 <br/><br/><br/>
   
-<h1>🛠️Tools🛠️<h1> <br/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> 
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
+<h2>🛠️Tools🛠️<h2> <br/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=square&logo=Visual Studio&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
 </div>
 
 <!--
