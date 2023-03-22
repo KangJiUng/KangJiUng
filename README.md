@@ -1,5 +1,5 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello%20World!🥳&fontSize=50)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20World!🥳&fontSize=50" />
 
 <br/>
 <h3>개발자를 꿈꾸는 대학생<h3><br/>
