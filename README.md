@@ -2,7 +2,7 @@
 
 <div align="center">
 <br/>
-개발자를 꿈꾸는 대학생<br/>
+### 개발자를 꿈꾸는 대학생<br/>
 <h2>📝Studying📝<h2> <br/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"> 
