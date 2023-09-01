@@ -1,24 +1,22 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!🥳&fontSize=50" />
-
+##### 개발자를 꿈꾸는 대학생
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Baby%20Chick.png" alt="Baby Chick" width="25" height="25" />
 <br/>
-  
-#### 개발자를 꿈꾸는 대학생 <br/>
-  
-<h2>📝Studying📝<h2>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black"> 
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="25" height="25" />내가 배우고 있는 것들
+</summary>
+  ![c]<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
+  ![c++]<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> 
+  ![html]<img src="https://img.shields.io/badge/HTML5-0175C2?style=for-the-badge&logo=html5&logoColor=white"/>
+  ![git]<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br/>
+  ![dart]<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  ![fb]<img src="https://img.shields.io/badge/firebase-0175C2?style=for-the-badge&logo=firebase&logoColor=white"/>
+</details>
+
 <br/><br/>
-  
-<h2>🛠️Tools🛠️<h2>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"> 
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
-<img src="https://img.shields.io/badge/Androidstudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</div>
+
 
 <!--
 **KangJiUng/KangJiUng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
